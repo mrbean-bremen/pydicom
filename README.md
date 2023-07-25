@@ -130,3 +130,5 @@ If you have examples or extensions of *pydicom* that don't belong with the
 core software, but that you deem useful to others, you can add them to our 
 contribution repository:
 [contrib-pydicom](https://www.github.com/pydicom/contrib-pydicom).
+
+Testing
